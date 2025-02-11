@@ -1,0 +1,37 @@
+{
+    "display": {
+      "icon": {
+        "id": "minecraft:shield"
+      },
+      "title": "Defence Against the Dark Arts",
+      "description": "Defeat any undead monster with your magic powers",
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "wizardingworld:magic/leviosa",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:player_killed_entity",
+        "conditions": {
+            "entity": {
+                "type": "#undead"
+            },
+            "player": {
+                "slots": {
+                    "weapon.mainhand": {
+                        "items": "warped_fungus_on_a_stick",
+                        "components": {
+                            "custom_data": {
+                                "magic_wand": true
+                            }
+                        }
+                    }
+                }
+            }
+        }
+      }
+    }
+  }
+  

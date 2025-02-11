@@ -1,0 +1,74 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#/#",
+        "P/P",
+        "EHE"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:shulker_shell"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "P": {
+            "item": "minecraft:phantom_membrane"
+        },
+        "E": {
+            "item": "minecraft:elytra"
+        },
+        "H": {
+            "item": "minecraft:hay_block"
+        }
+    },
+    "result": {
+        "id": "minecraft:zombie_horse_spawn_egg",
+        "count": 1,
+        "components": {
+            "entity_data": {
+                "id": "zombie_horse",
+                "Tags": [
+                    "broom",
+                    "h_lvl_0"
+                ],
+                "Tame": true,
+                "Health": 20.0,
+                "NoAI": true,
+                "Silent": true,
+                "attributes": [
+                    {
+                        "id": "generic.movement_speed",
+                        "base": 0.6
+                    },
+                    {
+                        "id": "generic.max_health",
+                        "base": 20
+                    },
+                    {
+                        "id": "generic.safe_fall_distance",
+                        "base": 1024
+                    },
+                    {
+                        "id": "generic.fall_damage_multiplier",
+                        "base": 0
+                    },
+                    {
+                        "id": "generic.gravity",
+                        "base": 0
+                    }
+                ]
+            },
+            "item_name": "{\"text\": \"Broomstick\"}",
+            "lore": [
+                "{\"text\": \"Mana: 0 / 46\", \"color\": \"gray\", \"italic\": false}"
+            ],
+            "custom_data": {
+                "broom": true
+            },
+            "custom_model_data": 1,
+            "max_stack_size": 1,
+            "rarity": "rare"
+        }
+    }
+}

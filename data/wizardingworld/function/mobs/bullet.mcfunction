@@ -1,0 +1,2 @@
+execute as @n[type=item,distance=..1,nbt={Item:{id:"minecraft:glass_bottle",count:1}}] run data merge entity @s {Item:{id:potion,components:{"item_name":'{"text": "Potion of Levitation"}',"potion_contents":{custom_effects:[{id:levitation,duration:200,amplifier:0}],custom_color:16777215}}}}
+execute if data entity @n[type=item,distance=..1] {Item:{components:{"minecraft:potion_contents":{custom_effects:[{duration:200,show_icon:1b,id:"minecraft:levitation"}],custom_color:16777215}},count:1,id:"minecraft:potion"}} run kill @s

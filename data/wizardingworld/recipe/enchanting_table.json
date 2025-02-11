@@ -1,0 +1,56 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "P/P",
+        "EEE"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:red_carpet"
+        },
+        "/": {
+            "item": "minecraft:crafting_table"
+        },
+        "P": {
+            "item": "minecraft:gold_block"
+        },
+        "E": {
+            "item": "minecraft:deepslate_tiles"
+        }
+    },
+    "result": {
+        "id": "minecraft:shulker_spawn_egg",
+        "count": 1,
+        "components": {
+            "entity_data": {
+                "id": "shulker",
+                "Tags": [
+                    "magic_crafting_table"
+                ],
+                "Health": 30.0,
+                "NoAI": true,
+                "Silent": true,
+                "NoGravity": true,
+                "attributes": [
+                    {
+                        "id": "generic.max_health",
+                        "base": 30
+                    }
+                ],
+                "active_effects": [
+                    {
+                        "id": "invisibility",
+                        "duration": -1,
+                        "show_particles": false
+                    }
+                ]
+            },
+            "custom_data": {
+                "magic_crafting_table": true
+            },
+            "custom_model_data": 1,
+            "item_name": "{\"text\": \"Magic Crafting Table\"}"
+        }
+    }
+}

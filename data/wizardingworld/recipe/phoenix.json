@@ -1,0 +1,49 @@
+{
+    "type": "smelting"
+    ,
+    "ingredient": {
+        "item": "minecraft:egg"
+    },
+    "result": {
+        "id": "minecraft:mooshroom_spawn_egg",
+        "components": {
+            "entity_data": {
+                "id": "parrot",
+                "Tags": [
+                    "phoenix"
+                ],
+                "Health": 20.0,
+                "Silent": true,
+                "attributes": [
+                    {
+                        "id": "generic.movement_speed",
+                        "base": 0.6
+                    },
+                    {
+                        "id": "generic.max_health",
+                        "base": 20
+                    },
+                    {
+                        "id": "generic.flying_speed",
+                        "base": 20
+                    },
+                    {
+                        "id": "generic.scale",
+                        "base": 1.5
+                    },
+                    {
+                        "id": "generic.armor",
+                        "base": 5
+                    }
+                ],
+                "DeathLootTable": "entities/phoenix",
+                "CustomName": "{\"text\": \"Phoenix\"}"
+            },
+            "item_name": "{\"text\": \"Phoenix Spawn Egg\"}",
+            "custom_data": {
+                "phoenix": true
+            },
+            "rarity": "uncommon"
+        }
+    }
+}

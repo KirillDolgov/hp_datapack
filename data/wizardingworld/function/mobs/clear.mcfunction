@@ -1,0 +1,9 @@
+item replace entity @s container.1 with air
+item replace entity @s container.2 with air
+item replace entity @s container.3 with air
+item replace entity @s container.10 with air
+item replace entity @s container.11 with air
+item replace entity @s container.12 with air
+item replace entity @s container.19 with air
+item replace entity @s container.20 with air
+item replace entity @s container.21 with air

@@ -1,0 +1,1276 @@
+[
+    {
+      "function": "minecraft:set_written_book_pages",
+      "pages": [
+        [
+            {
+                "text": "                             "
+            },
+            {
+                "text": "        Spells           ",
+                "bold": true
+            },
+            {
+                "text": "                     "
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 0"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Stupefy",
+                        "color": "dark_red"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 4"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Expelliarmus",
+                        "color": "dark_red"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 14"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Confringo",
+                        "color": "dark_red"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 15"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Incendio",
+                        "color": "dark_red"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 16"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Bombarda",
+                        "color": "dark_red"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 17"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Bombarda Maxima",
+                        "color": "dark_red"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 0"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Stupefy",
+                        "color": "dark_red"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 4"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Expelliarmus",
+                        "color": "dark_red"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 14"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Confringo",
+                        "color": "dark_red"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 15"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Incendio",
+                        "color": "dark_red"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 16"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Bombarda",
+                        "color": "dark_red"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 17"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Bombarda Maxima",
+                        "color": "dark_red"
+                    }
+                },
+                "color": "white"
+            },{
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 1"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Lumos",
+                        "color": "#3c83a9"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 3"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Revelio",
+                        "color": "#3c83a9"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 8"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Finite Incantatem",
+                        "color": "#3c83a9"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 11"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Aguamenti",
+                        "color": "#3c83a9"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 12"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Aqua Eructo",
+                        "color": "#3c83a9"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 24"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Remember place (Apparition)",
+                        "color": "#3c83a9"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 1"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Lumos",
+                        "color": "#3c83a9"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 3"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Revelio",
+                        "color": "#3c83a9"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 8"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Finite Incantatem",
+                        "color": "#3c83a9"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 11"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Aguamenti",
+                        "color": "#3c83a9"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 12"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Aqua Eructo",
+                        "color": "#3c83a9"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 24"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Remember place (Apparition)",
+                        "color": "#3c83a9"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 2"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Wingardium Leviosa",
+                        "color": "gold"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 7"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Immobulus",
+                        "color": "gold"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 9"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Arresto Momentum",
+                        "color": "gold"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 5"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Depulso",
+                        "color": "#7430d2"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 6"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Accio",
+                        "color": "#7430d2"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 10"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Alarte Ascendare",
+                        "color": "#7430d2"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 2"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Wingardium Leviosa",
+                        "color": "gold"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 7"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Immobulus",
+                        "color": "gold"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 9"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Arresto Momentum",
+                        "color": "gold"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 5"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Depulso",
+                        "color": "#7430d2"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 6"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Accio",
+                        "color": "#7430d2"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 10"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Alarte Ascendare",
+                        "color": "#7430d2"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 13"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Meteolojinx Recanto",
+                        "color": "red"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 18"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Sectum Sempra",
+                        "color": "red"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 20"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Fiendfyre",
+                        "color": "red"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 22"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Imperio",
+                        "color": "dark_green"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 21"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Crucio",
+                        "color": "dark_green"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 23"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Avada Kedavra",
+                        "color": "dark_green"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 13"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Meteolojinx Recanto",
+                        "color": "red"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 18"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Sectum Sempra",
+                        "color": "red"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 20"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Fiendfyre",
+                        "color": "red"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 22"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Imperio",
+                        "color": "dark_green"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 21"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Crucio",
+                        "color": "dark_green"
+                    }
+                },
+                "color": "white"
+            },
+            {
+                "text": "",
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": ""
+                    }
+                },
+                "clickEvent": {
+                    "action": "change_page",
+                    "value": "1"
+                }
+            },
+            {
+                "text": "",
+                "clickEvent": {
+                    "action": "run_command",
+                    "value": "/trigger choosen_spell set 23"
+                },
+                "hoverEvent": {
+                    "action": "show_text",
+                    "contents": {
+                        "text": "Avada Kedavra",
+                        "color": "dark_green"
+                    }
+                },
+                "color": "white"
+            }
+        ]
+      ],
+      "mode": "replace_all"
+    },
+    {
+        "function": "set_book_cover",
+        "author": "",
+        "generation": 3,
+        "title": ""
+    },
+    {
+      "function": "minecraft:set_item",
+      "item": "minecraft:written_book"
+    },
+    {
+        "function": "minecraft:set_components",
+        "components": {
+            "enchantment_glint_override": false
+        }
+    }
+  ]
+  
